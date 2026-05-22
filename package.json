@@ -1,0 +1,9 @@
+{
+  "name": "depin-hardware-incentive-layer",
+  "version": "1.0.0",
+  "description": "DePIN hardware verification and reward logic",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.2",
+    "ethers": "^6.12.0"
+  }
+}
