@@ -1,0 +1,7 @@
+{
+  "network_name": "GridConnect-2026",
+  "min_uptime_pct": 98.5,
+  "slashing_penalty_bps": 200,
+  "epoch_duration_blocks": 7200,
+  "supported_hardware_v": ["v2.1-Air", "v3.0-Core"]
+}
